@@ -1,5 +1,8 @@
-# S&P500IndexFund
-Python Script for Calculating How Many and Which Stocks to buy to make a Equal-Weight S&amp;P500 Index Fund.
+# S&P500 Index Fund
+This is a Python Script for Calculating How Many and Which Stocks to buy to make a Equal-Weight S&P500 Index Fund.
 
-Running the Below Command will Print Required Amount of Stocks as a Dictionary.
+First Install Required Libraries:
+```pip install requirements.txt```
+
+Then Run This Command To Get Dictionary of Stocks and Amount to Buy
 ```python main.py```
